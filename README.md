@@ -5,14 +5,18 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Hund``` und füllt sie mit min. einem Attribut, das sich vergleichen lässt (zB. String rasse).
+Erstellt eine Klasse ```Hund``` und füllt sie folgenden Attribut:
+- ```String rasse```
+- ```int alter```
+- ```String name```
 
-✨ Optional: Schreibt Getter/Setter und einen Konstruktor für euren ```Hund``` bzw. dessen Attribute.
+✨ Optional: Schreibt Getter/Setter für eure ```Hund``` Klasse bzw. dessen Attribute.
 
-Erzeugt in eurer ```main-methode``` zwei ```Hund``` Objekte und vergleicht die Attribute der Hunde mit min. einem ```if``` statement.
-Gebt nach dem vergleichen einen String in der Konsole aus. (z.B. "Das Alter der Hunde ist gleich. Sie sind beide 5 Jahre alt")
+Erzeugt in eurer ```main-methode``` zwei ```Hund``` Objekte und überprüft in einem conditional statement (```if-else```) ob einer der beiden Hunde mindestens 5 Jahre alt ist.
+- Falls die Bedingung zutreffend ist, gebt in der Konsole aus "Eine Hund ist mindestens 5 Jahre alt". 
+- Falls die Bedingung nicht zutrifft gebt in der Konsole aus "Die Hunde sind beide jünger als 5 Jahre"
 
-⚠️ Advanced: Versucht euch an einem ```switch-case``` statement das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt.
+⚠️ Advanced: Versucht euch an einem ```switch-case``` statement, das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt.
 
 
 
