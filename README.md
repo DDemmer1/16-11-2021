@@ -5,7 +5,7 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Hund``` und füllt sie folgenden Attribut:
+Erstellt eine Klasse ```Hund``` und füllt sie mit folgenden Attributen:
 - ```String rasse```
 - ```int alter```
 - ```String name```
@@ -13,10 +13,10 @@ Erstellt eine Klasse ```Hund``` und füllt sie folgenden Attribut:
 ✨ Optional: Schreibt Getter/Setter für eure ```Hund``` Klasse bzw. dessen Attribute.
 
 Erzeugt in eurer ```main-methode``` zwei ```Hund``` Objekte und überprüft in einem conditional statement (```if-else```) ob einer der beiden Hunde mindestens 5 Jahre alt ist.
-- Falls die Bedingung zutreffend ist, gebt in der Konsole aus "Eine Hund ist mindestens 5 Jahre alt". 
+- Falls die Bedingung zutreffend ist, gebt in der Konsole aus "Ein Hund ist mindestens 5 Jahre alt". 
 - Falls die Bedingung nicht zutrifft gebt in der Konsole aus "Die Hunde sind beide jünger als 5 Jahre"
 
-⚠️ Advanced: Versucht euch an einem ```switch-case``` statement, das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt.
+⚠️ Advanced: Versucht euch an einem ```switch-case``` statement, das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt. D.h. ```String rasse``` ist der switch und als case wird z.B. "Pekinese" gewählt. Falls der case "Pekinese" zutrifft gebt ihr in der Console "...wuff..." aus. Pro Rasse ein anderes "bellen" 
 
 
 
